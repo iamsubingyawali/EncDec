@@ -1,0 +1,8 @@
+The files are inside src/com/encdec
+
+The main file is Main.java which utilizes all other Interfaces and Classes
+
+The easiest and quickest way to run the project is to Import the Unzipped folder inside an IDE
+The preferred IDE is "Intellij IDEA" by Jetbrains
+
+The files can also be run standalone but need some work to manage package and file paths.
