@@ -1,2 +1,2 @@
 # EncDec
-Substitution cipher using Java
+Simple program to demonstrate substitution cipher in Java
